@@ -202,15 +202,11 @@ B.Tech CSE | Aspiring Data Analyst
 
 \### Executive Overview
 
-
-
 !\[Executive Overview](screenshots/01\_Executive\_Overview.png)
 
 
 
 \### Customer \& Payment Analysis
-
-
 
 !\[Customer \& Payment Analysis](screenshots/02\_Customer\_Payment\_Analysis.png)
 
@@ -218,17 +214,11 @@ B.Tech CSE | Aspiring Data Analyst
 
 \### Operations \& Delivery Analysis
 
-
-
 !\[Operations \& Delivery Analysis](screenshots/03\_Operations\_Delivery\_Analysis.png)
 
 
 
 \### Product \& Seller Performance
 
-
-
 !\[Product \& Seller Performance](screenshots/04\_Product\_Seller\_Performance.png)
-
-
 
