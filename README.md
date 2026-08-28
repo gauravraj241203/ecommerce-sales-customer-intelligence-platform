@@ -200,33 +200,17 @@ B.Tech CSE | Aspiring Data Analyst
 
 
 
-\### Executive Overview
+!\[Executive Overview](./screenshots/01\_Executive\_Overview.png)
 
 
 
-!\[Executive Overview](https://github.com/gauravraj241203/ecommerce-sales-customer-intelligence-platform/raw/refs/heads/main/screenshots/01\_Executive\_Overview.png)
+!\[Customer \& Payment Analysis](./screenshots/02\_Customer\_Payment\_Analysis.png)
 
 
 
-\### Customer \& Payment Analysis
+!\[Operations \& Delivery Analysis](./screenshots/03\_Operations\_Delivery\_Analysis.png)
 
 
 
-!\[Customer \& Payment Analysis](https://github.com/gauravraj241203/ecommerce-sales-customer-intelligence-platform/raw/refs/heads/main/screenshots/02\_Customer\_Payment\_Analysis.png)
-
-
-
-\### Operations \& Delivery Analysis
-
-
-
-!\[Operations \& Delivery Analysis](https://github.com/gauravraj241203/ecommerce-sales-customer-intelligence-platform/raw/refs/heads/main/screenshots/03\_Operations\_Delivery\_Analysis.png)
-
-
-
-\### Product \& Seller Performance
-
-
-
-!\[Product \& Seller Performance](https://github.com/gauravraj241203/ecommerce-sales-customer-intelligence-platform/raw/refs/heads/main/screenshots/04\_Product\_Seller\_Performance.png)
+!\[Product \& Seller Performance](./screenshots/04\_Product\_Seller\_Performance.png)
 
