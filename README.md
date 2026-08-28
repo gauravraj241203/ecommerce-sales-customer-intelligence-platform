@@ -196,33 +196,16 @@ B.Tech CSE | Aspiring Data Analyst
 
 
 
-\## 📸 Dashboard Preview
+## 📸 Dashboard Preview
 
+### Executive Overview
+![Executive Overview](screenshots/executive-overview.png)
 
+### Customer & Payment Analysis
+![Customer & Payment Analysis](screenshots/customer-payment-analysis.png)
 
-\## 📸 Dashboard Preview
+### Operations & Delivery Analysis
+![Operations & Delivery Analysis](screenshots/operations-delivery-analysis.png)
 
-
-
-\### Executive Overview
-
-<img src="./screenshots/01\_Executive\_Overview.png" alt="Executive Overview" width="100%">
-
-
-
-\### Customer \& Payment Analysis
-
-<img src="./screenshots/02\_Customer\_Payment\_Analysis.png" alt="Customer \& Payment Analysis" width="100%">
-
-
-
-\### Operations \& Delivery Analysis
-
-<img src="./screenshots/03\_Operations\_Delivery\_Analysis.png" alt="Operations \& Delivery Analysis" width="100%">
-
-
-
-\### Product \& Seller Performance
-
-<img src="./screenshots/04\_Product\_Seller\_Performance.png" alt="Product \& Seller Performance" width="100%">
-
+### Product & Seller Performance
+![Product & Seller Performance](screenshots/product-seller-performance.png)
