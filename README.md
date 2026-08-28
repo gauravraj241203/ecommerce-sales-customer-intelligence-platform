@@ -209,3 +209,45 @@ B.Tech CSE | Aspiring Data Analyst
 
 ### Product & Seller Performance
 ![Product & Seller Performance](screenshots/product-seller-performance.png)
+
+
+## 📁 Project Structure
+
+```text
+├── Notebooks/       # Python analysis scripts
+├── SQL/             # SQL queries
+├── charts/          # Generated visualizations
+├── screenshots/     # Power BI dashboard previews
+├── Data/            # Local dataset (not uploaded)
+└── ecomerce_project.pbix
+
+
+🔍 Key Business Questions
+How is revenue changing over time?
+Which product categories generate the most revenue?
+Which sellers and states perform best?
+What payment methods do customers prefer?
+How satisfied are customers?
+How long does delivery take?
+What is the overall delivery performance?
+📊 Dashboard Highlights
+
+The Power BI dashboard provides interactive analysis through:
+
+Executive KPI monitoring
+Revenue and order trends
+Category performance
+Customer and review analysis
+Payment analysis
+Seller and state performance
+Delivery-time analysis
+Year-based filtering
+🧰 Skills Demonstrated
+
+Data Analysis: Python · Pandas · Exploratory Data Analysis
+
+Database: SQL · MySQL · Data Querying
+
+Business Intelligence: Power BI · DAX · Data Modeling
+
+Visualization: Power BI · Matplotlib · Business Charts
